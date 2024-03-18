@@ -47,10 +47,10 @@ save_checkpoint_steps = 20
 resume_from_checkpoint = None 
 
 # Number of labels for the multilabel classification problem
-num_labels = 6
+num_labels = 4
 
 # Push saved model to the hub.
 push_to_hub = True 
 
 # Name of the wandb project.
-wandb_project = "small_Labse"
+wandb_project = "small_e5"
